@@ -1,0 +1,8 @@
+Results,total_rows,blank_violations,blank_pct
+Business Not Located,11,11,100.0
+Fail,7316,172,2.4
+No Entry,2541,2443,96.1
+Not Ready,787,780,99.1
+Out of Business,2742,2739,99.9
+Pass,19132,5452,28.5
+Pass w/ Conditions,4960,120,2.4

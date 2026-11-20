@@ -1,0 +1,11 @@
+check,count
+study_rows_before_cleaning,37489
+study_rows_after_cleaning,37489
+rows_removed_during_cleaning,0
+exact_duplicates_before,0
+exact_duplicates_after,0
+missing_inspection_ids,0
+repeated_nonmissing_inspection_ids,0
+unparseable_or_missing_dates_after,0
+missing_coordinate_pairs,126
+invalid_or_incomplete_coordinate_pairs,0

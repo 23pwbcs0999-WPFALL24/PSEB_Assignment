@@ -1,0 +1,4 @@
+Risk,actual_failures,missed_failures,missed_pct
+Risk 1 (High),1011,761,75.27200791295746
+Risk 2 (Medium),33,24,72.72727272727273
+Risk 3 (Low),10,8,80.0

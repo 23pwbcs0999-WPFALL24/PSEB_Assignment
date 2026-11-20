@@ -1,0 +1,18 @@
+column,missing_before,missing_after,missing_pct_before,missing_pct_after
+Inspection ID,0,0,0.0,0.0
+DBA Name,0,0,0.0,0.0
+AKA Name,38,38,0.1,0.1
+License #,1,1,0.0,0.0
+Facility Type,166,166,0.44,0.44
+Risk,7,7,0.02,0.02
+Address,0,0,0.0,0.0
+City,24,24,0.06,0.06
+State,9,9,0.02,0.02
+Zip,4,4,0.01,0.01
+Inspection Date,0,0,0.0,0.0
+Inspection Type,0,0,0.0,0.0
+Results,0,0,0.0,0.0
+Violations,11717,11717,31.25,31.25
+Latitude,126,126,0.34,0.34
+Longitude,126,126,0.34,0.34
+Location,126,126,0.34,0.34

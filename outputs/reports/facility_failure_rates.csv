@@ -1,0 +1,11 @@
+facility_type,completed_inspections,failures,failure_rate_pct
+Long Term Care,227,71,31.3
+Bakery,217,63,29.0
+Daycare Above and Under 2 Years,220,63,28.6
+School,1644,445,27.1
+Grocery Store,1014,272,26.8
+Daycare (2 - 6 Years),99,26,26.3
+Restaurant,11039,2808,25.4
+Hospital,103,24,23.3
+Catering,121,25,20.7
+Children's Services Facility,566,104,18.4

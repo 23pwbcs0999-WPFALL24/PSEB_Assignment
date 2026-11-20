@@ -1,0 +1,3 @@
+Inspection Date,Facility Type,Risk,Zip,failure_probability,flag_for_review
+2025-01-14,Restaurant,Risk 1 (High),60614,0.36818024438058444,True
+2025-01-16,Bakery,Risk 2 (Medium),,0.25447640149616924,False
